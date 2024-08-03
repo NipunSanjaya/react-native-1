@@ -1,7 +1,9 @@
 {
-  "name": "react-native-1",
-  "main": "expo-router/entry",
+  "name": "react-native-1", 
   "version": "1.0.0",
+    "main": "expo-router/entry",
+  
+  
   "scripts": {
     "start": "expo start",
     "reset-project": "node ./scripts/reset-project.js",
